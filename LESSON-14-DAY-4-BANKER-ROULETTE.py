@@ -1,0 +1,1 @@
+names = names_string.split(", ")
